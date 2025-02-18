@@ -37,7 +37,7 @@ function App() {
         <div className="container">
           <h1 className="display-4">Olá, eu sou André</h1>
           <p className="lead">Desenvolvedor FullStack &amp; Machine Learning</p>
-          <p>Criando soluções inovadoras em visão computacional, blockchain e desenvolvimento web.</p>
+          <p>Criando soluções em inteligencia artificial e desenvolvimento web.</p>
         </div>
       </header>
 
